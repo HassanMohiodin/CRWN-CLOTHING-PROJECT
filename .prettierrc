@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "editor.formatOnSave": true,
+  "clang-format.language.javascript.enable": false,
+  "endOfLine": "auto"
+}
